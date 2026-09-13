@@ -3,6 +3,8 @@
 **SociallyRise** is an AI-powered digital growth platform designed to help creators, businesses, startups, and brands scale their online presence through content, automation, analytics, and growth-focused solutions.
 
 ---
+![SociallyRise Banner](https://raw.githubusercontent.com/hsecurities/sociallyrise/refs/heads/main/assets/banner.png)
+---
 
 ## 🌟 Overview
 
